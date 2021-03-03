@@ -26,4 +26,4 @@ OUTPUT:
 
 
 Example:
-<img src="">
+<img src="https://github.com/Sarthak-23/INTRODUCTION_TO_ROBOTICS/blob/main/Output.png">

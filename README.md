@@ -1,4 +1,3 @@
-# INTRODUCTION_TO_ROBOTICS
 <h1 align="center">Introduction to Robotics</h1>
 
 <h3 align="center">Assignment 2</h3>
